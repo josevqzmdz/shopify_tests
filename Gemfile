@@ -20,7 +20,7 @@ gem "jbuilder"
 #####################
 # bundler, from bundler.io for shopify API
 gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
+gem 'rack', '~> 3.1.12'
 gem 'rspec'
 
 ##########
