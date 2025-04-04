@@ -17,10 +17,15 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
+#####################
 # bundler, from bundler.io for shopify API
 gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
+
+##########
+# install OAuth for shopify API
+gem 'oauth2'
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
